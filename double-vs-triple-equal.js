@@ -33,7 +33,7 @@ else{
 
 
 
-//===Triple Equal===//           //Its check both value and types
+//===Triple Equal===//            //Its check both value and types
 const first3 = 2;
 const second3 = "2";
 if(first3 === second3){
