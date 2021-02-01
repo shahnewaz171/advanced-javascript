@@ -30,5 +30,5 @@ console.log(ids);
 const bigger = students.filter(s => s.id > 40);  //Using filter method for condition.
 console.log(bigger);
 
-const biggerOne = students.find(s => s.id > 40);  //It gives output only one last element
+const biggerOne = students.find(s => s.id > 40);  //It gives output only one first element
 console.log(biggerOne);
