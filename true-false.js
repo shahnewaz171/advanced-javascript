@@ -1,4 +1,4 @@
-//Falsy:
+//Falsy Values:
 //false
 // 0
 // ""
@@ -6,7 +6,7 @@
 // null
 // NaN
 
-//Truthy:
+//Truthy Values:
 //"0", " ", [], {}, 'false'
 
 let name = 'false';
