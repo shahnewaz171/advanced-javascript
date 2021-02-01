@@ -52,5 +52,4 @@ if(third === fourth){
 else{
     console.log('Condition is false');
 }
-
 //===End Triple Equal===//    
